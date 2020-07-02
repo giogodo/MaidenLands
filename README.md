@@ -191,8 +191,9 @@ Plan to finish off complete coding part of the game and world building is about 
 
 ## MileStones and initial world building
 
-- **(Month 1 - 2)---> vegetation and foilage system** 
-since the game take place in vast open landscapes, vegetation and foilage system will be the heart of all systems. Most of the basic tools included in vegetation 
+- **(Month 1 - 2)---> vegetation and foilage system**.
+
+Since the game take place in vast open landscapes, vegetation and foilage system will be the heart of all systems. Most of the basic tools included in vegetation 
 system are almost complete however in order to make the vegetation system performance friendly as well, it will take time, I plan to give it a full complete month,
 including writing all the manuals and making video tutorials. 
 
