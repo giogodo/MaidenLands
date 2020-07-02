@@ -15,7 +15,7 @@ Apart from a main story line and a protagonist users will be able to create thei
 <img src="Resources/Maps/GRANADO_ESPADA_Sword_New_World.jpg" width="800" height="600"/>
 
 *__Please note that this is the first iteration of this document, mistakes or incomplete details are expected__*.
-*__Give your feedback at ObaidurRehman164@gmail.com or like the facebook page https://www.facebook.com/MiadenLands-107453851032220. __*
+*__Give your feedback at ObaidurRehman164@gmail.com or like the facebook page https://www.facebook.com/MiadenLands-107453851032220.*
 
 ## Background and Story
 The game will be set in far away "Maiden Land", with Nordic villages and towns to the north of it and Eastern caucasian ethnic populations in the middle lands.
@@ -33,38 +33,6 @@ Cross bows and gun powder.
  - rigging
  - environment art and
  - character art, in a beautiful world where they can bring and visualize their creations to life with intelligent NPCs, dynamic day night cycles, dynamic weather conditions etc.
- 
-## Plan of Action
-Since this project is open source ***project development plan of action*** should be available to all contributors, and development work should be trackable for all personnel
-invloved in development. This is an overview of development steps in order of their execution, however the timeline for development stages are described below in a seperate section of their own in "MileStones and initial world building".
-
-1. **Phase-1**
-- Development of a foilage / vegetation system. (already in progress).
-- hiring concept artists for creating an art direction for "MaidenLands".
-- creating an art direction for game.
-- creating a background story, setting and theme for "Maiden Lands"
-
-2. **Phase-2**
-- Creating a robust player controller.
-- Developing other character systems such as character inventory, crafting, item loot and skill reward systems.
-- Developing AI Systems; decision making, navigation, and sensory for non player characters (NPCs) (already in progress).
-- Developing other necessary game systems such as dialogue system, quest, story editor and save/load systems etc.
-- Developing tools to allow contents created by users to be exported, for purchase or for free.
-- Art assets such as 3d environments and animations will be evaluated and purchased from unity asset store at this stage.
-- On art side further progress will be made on creating and planning layouts of game level design in terms of terrain / landscapes and in terms of cities layout and design.
-
-3. **Phase-3** 
-- Since most programming tasks are completed till this phase, this phase will deal with art work and actual level design of game world.
-- artists already working and more will be hired if necessary for creating the landmarks locations, landscape and other 3d environments.
-- lightning of game world and environments.
-- setting mood and background story according to theme and story of "Maiden Lands".
-- game systems developed in phases 1 and 2 will be combined and tested.
-- testing and making game ready.
-
-4. **Phase-4**
-- at this stage "Maiden Lands" will be released to general public and gamers, with all necessary tools and systems to allow users to start creating stories, or 
-environments.
-- core development team will now work on creating the main storyline for this game, which will be released on steam.
 
 ## How will this help you ?
 Even if you are not interested in the world of this game, you can still benefit from it's development.
@@ -96,13 +64,14 @@ Although this game is medieval themed and open world opposed to Alan wake howeve
 beautiful level designs and vistas however combat will still be an essential part of this game.
 3. Game will feature limited but well crafted game play mechanics such as.
 
-- *inventory system*
-- *crafting system*
-- *branching dilogue system*
+- *inventory*
+- *crafting*
+- *branching dilogue*
 - *branching stories*
 - *dynamic day/night cycle*
 - *intelligent NPCs*
 - *exploration*
+- *points of intrests*
 - *lot of interactions in game world*
 
 ## Technical details overview
