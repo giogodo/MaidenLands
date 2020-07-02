@@ -195,36 +195,41 @@ Plan to finish off complete coding part of the game and world building is about 
 As you can see from the above repo I have briefly touched most important game system already including AI and Foilage system however in order to make then performance friendly 
 and optimized it will take one month per each system.
 
-- **_(Month 1)_---> vegetation and foilage system** 
+- **_(Month 1 - 2)_---> vegetation and foilage system** 
 since the game take place in vast open landscapes, vegetation and foilage system will be the heart of all systems. Most of the basic tools included in vegetation 
 system are almost complete however in order to make the vegetation system performance friendly as well, it will take time, I plan to give it a full complete month,
 including writing all the manuals and making video tutorials. 
 
-- **_(Month 2)_---> player mechanics such as** 
+- **(Month 2 - 3_---> player and game mechanics** 
   - character controllers
   - inventory system
   - crafting system
   - item loot system
   - dialogue system
   
-- **_(Month 3)_---> developer tools to allow gamers/other developers to rapidly start creating in game content, initial developer tools will be**
+- **(Month 3 - 4)---> developer tools**
   - quest editor
   - story editor
   - tools to create and design levels such villages and towns
   - tools to add AI 
   
-- **_(Month 4)_---> a 32 km square playable landscape/terrain with all details(from grasses, trees, rocks, rivers, mountains etc)**
+- **(Month 4)---> designing the world of Maiden Lands**
+  - landscapes
+  - level design
+  - art work
+  - lightning
+  - creating mood and atmosphere
 
-- **_(Month 5)_---> game mechanics such as**
+- **(Month 5)---> further game mechanics**
   - dynamic time of day
   - dynamic weather system
-  - save/load 
+  - other game system
   - etc
   
-- **_(Month 6)_---> video tutorials & fine tuning previous steps**
+- **(Month 6)---> video tutorials & fine tuning previous steps**
   - video demostration by developers of various tools
   
-- **_(Month 7)_---> fine tuning previous steps**
+- **(Month 7)---> fine tuning previous steps**
   
 - a fully working user interface
   
