@@ -191,44 +191,45 @@ Plan to finish off complete coding part of the game and world building is about 
 
 ## MileStones and initial world building
 
-- **(Month 1 - 2)---> vegetation and foilage system**.
+- **Month 1-2 (vegetation and foilage system)**
 
 Since the game take place in vast open landscapes, vegetation and foilage system will be the heart of all systems. Most of the basic tools included in vegetation 
 system are almost complete however in order to make the vegetation system performance friendly as well, it will take time, I plan to give it a full complete month,
 including writing all the manuals and making video tutorials. 
 
-- **(Month 2 - 3---> player and game mechanics** 
+- **Month 2-3 (player and game mechanics)** 
   - character controllers
   - inventory system
   - crafting system
   - item loot system
   - dialogue system
   
-- **(Month 3 - 4)---> developer tools**
+- **Month 3-4 (developer tools)**
   - quest editor
   - story editor
   - tools to create and design levels such villages and towns
   - tools to add AI 
   
-- **(Month 4)---> designing the world of Maiden Lands**
+- **Month 4-5 (designing the world of Maiden Lands)**
   - landscapes
   - level design
   - art work
   - lightning
   - creating mood and atmosphere
 
-- **(Month 5)---> further game mechanics**
+- **Month 5-6 (further game mechanics)**
   - dynamic time of day
   - dynamic weather system
   - other game system
   - etc
   
-- **(Month 6)---> video tutorials & fine tuning previous steps**
-  - video demostration by developers of various tools
+- **Month 6-7 (fine tuning, polishing, testing)**
+  - testing
+  - video demostration by developers of various tools and systems
   
-- **(Month 7)---> fine tuning previous steps**
-  
-- a fully working user interface
+- **Month 7-8 (fine tuning previous steps)**
+  - testing.
+  - optional enhancements
   
 ## Donations / Crowd funding
 I have spend past 7 to 8 months working full time on this ambitious project of mine, I worked on every single core aspect mostly technicals such as developing and making ready
