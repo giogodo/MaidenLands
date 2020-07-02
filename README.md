@@ -28,21 +28,13 @@ These creatures and beasts are powerful and dangerous beyond the strength of any
 Cross bows and gun powder.
 
 ## Goals
-1. The goal of this project is a create a AAA standard opensource medieval style "Role Playing Game".
-2. To allow non technical people/artists to bring their imaginations to life by creating their own stories, quests, dialogues and levels such as villages and towns in a already crafted beautiful world by providing them with high quality easy to use tools.
-3. To allow people to enjoy stories, quests, levels created by other people.
-4. To allow artists to demostrate/showcase their artistic skills such as
- - animations
- - rigging
- - environment art and
- - character art, in a beautiful world where they can bring and visualize their creations to life with intelligent NPCs, dynamic day night cycles, dynamic weather conditions etc.
+The goal of this project is to create an immersive medieval fantasy world with a rich story, background, history and amazing art work, vistas and landscapes 
+where users can create their own content as well; content such as quests, stories, locations and much more.
+User created content could be sold and purchased in markets and merchants in the "Maiden Lands".
 
-## How will this help you ?
-Even if you are not interested in the world of this game, you can still benefit from it's development.
-
-1. Apart from a complete game, the goal of this project will be to develop a ***plug and play robust and complete game development framework for unity*** which will benefit anyone looking to develop their own game using unity as well as freelancers, small independent studios and start-ups, by providing them battle tested tools.
-2. Users how will contribute will their part of budget share, collected through donations and crowd-funding, (amount will base on a certain criteria).
-3. Users who will create stories, quests, environments (environment art, animations, characters, levels) will be able to sell them on through market and merchants in the game world.
+## Will it help in some way ?
+1. Apart from a complete game, the goal of this project will be to develop a ***plug and play robust and complete game development framework for unity*** which will benefit anyone looking to develop their own game using unity as well as freelancers, small independent studios and start-ups, by providing them community driven battle tested tools.
+2. Developers who will contribute will have their part of budget share, collected through donations and crowd-funding, (amount will base on a certain criteria).
 
 ## Art style & Concept art 
 1. The game will have realistic art style in terms of terrain, vegetation, characters and other assets, the best example for this game's *__art style, lightning, mood and atmosphere is Remedy Entertainment's Alan wake.__*
