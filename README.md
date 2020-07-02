@@ -8,7 +8,7 @@ This is the primary repository for an "open world, open source" role playing gam
 
 Maiden Lands will be a community driven open world role playing game, where users can create their own stories, quests, characters and art and much more in a medieval fantasy world with a strong background story, theme, history, culture and lore.
 
-The world of Maiden Lands will be filled with lots of interesting characters, towns, cities and stories, inspired by medieval Scandinavia, the world of "Maiden Lands" is divided into two lands masses with "Tribal Nomads civilizations" to the north and "Saxons" in the middle lands.
+The world of Maiden Lands will be filled with lots of interesting characters, towns, cities and stories, inspired by medieval Scandinavia, the world of "Maiden Lands" is divided into two lands masses with "Tribal Nordic civilizations" to the north and "Saxons" in the middle lands.
 
 Maiden Lands has rich background, history of its civilizations, culture, historical events, architecture and a main story line as well as a  well defined protagonist and story characters.
 
