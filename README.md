@@ -263,10 +263,14 @@ Donations can be made using direct bank deposit or by becoming a patreon, both w
 
 **--> a kick starter campaign (comming in second week of July)**.
 
-**--> an official facebook page**.
-- https://www.facebook.com/MiadenLands-107453851032220.
-
 **--> official twitter account (coming soon)**.
+
+
+
+**Official facebook page.**
+https://www.facebook.com/MiadenLands-107453851032220.
+
+
 
 *For further queries / questions contact me directly*.
 Contacts.
