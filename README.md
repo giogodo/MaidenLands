@@ -15,7 +15,7 @@ Apart from a main story line and a protagonist users will be able to create thei
 <img src="Resources/Maps/GRANADO_ESPADA_Sword_New_World.jpg" width="800" height="600"/>
 
 *__Please note that this is the first iteration of this document, mistakes or incomplete details are expected__*.
-*__Give your feedback at ObaidurRehman164@gmail.com or like the facebook page*__
+*__Give your feedback at ObaidurRehman164@gmail.com or like the facebook page https://www.facebook.com/MiadenLands-107453851032220. __*
 
 ## Background and Story
 The game will be set in far away "Maiden Land", with Nordic villages and towns to the north of it and Eastern caucasian ethnic populations in the middle lands.
@@ -190,17 +190,13 @@ Plan to finish off complete coding part of the game and world building is about 
 5. World dynamics.
 
 ## MileStones and initial world building
-1. The initial world will be built as soon as possible, it will be completly working game with all the necessary systems, it will include the following
 
-As you can see from the above repo I have briefly touched most important game system already including AI and Foilage system however in order to make then performance friendly 
-and optimized it will take one month per each system.
-
-- **_(Month 1 - 2)_---> vegetation and foilage system** 
+- **(Month 1 - 2)---> vegetation and foilage system** 
 since the game take place in vast open landscapes, vegetation and foilage system will be the heart of all systems. Most of the basic tools included in vegetation 
 system are almost complete however in order to make the vegetation system performance friendly as well, it will take time, I plan to give it a full complete month,
 including writing all the manuals and making video tutorials. 
 
-- **(Month 2 - 3_---> player and game mechanics** 
+- **(Month 2 - 3---> player and game mechanics** 
   - character controllers
   - inventory system
   - crafting system
@@ -269,12 +265,6 @@ Donations can be made using direct bank deposit or by becoming a patreon, both w
 **--> a kick starter campaign (comming in second week of July)**.
 
 **--> official twitter account (coming soon)**.
-
-
-
-**Official facebook page.**
-https://www.facebook.com/MiadenLands-107453851032220.
-
 
 
 *For further queries / questions contact me directly*.
