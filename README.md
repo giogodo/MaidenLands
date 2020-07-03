@@ -25,9 +25,7 @@ Maiden Lands is filled with magic and monsters, both as humans and beasts.
 
 In the year 1106, one after the other, Saxon kingdoms fell to Nordic invasions.
 Saxon cities ravaged and plundered by pagans, populations killed and enslaved. Those who took refuge in deep forests found themselves and their families amongst
-monsters, magic and outlaws, with no food and security.
-
-A few young men and women took up arms and guard the holy relaics which their ansestors took before fleeing the cities.
+monsters, magic and outlaws, with no food and security. A few young men and women took up arms and guard the holy relaics which their ansestors took before fleeing the cities.
 
 However a becon of hope still remians, "Alia" a coastal city to the very end of MaidenLands, she is injured but sill resists to both the pagans and monsters. 
 It is a symbol of hope and light to all the resistance movements spread across MaidenLands.
