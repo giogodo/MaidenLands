@@ -28,13 +28,13 @@ These creatures and beasts are powerful and dangerous beyond the strength of any
 Cross bows and gun powder.
 
 ## Goals
-The goal of this project is to create an immersive medieval fantasy world with a rich story, background, history and amazing art work, vistas and landscapes 
+The goal of this project is to create an immersive medieval fantasy world with a rich story, background, history and amazing art work, landscapes and vistas 
 where users can create their own content as well; content such as quests, stories, locations and much more.
-User created content could be sold and purchased in markets and merchants in the "Maiden Lands".
+User created content can be sold and purchased to other users through markets and merchants in the "Maiden Lands".
 
 ## Will it help in some other way as well ?
 1. Apart from a complete game, the goal of this project will be to develop an ***open source, plug and play, robust and complete game development framework for unity*** which will benefit anyone looking to develop their own game using unity as well as freelancers, small independent studios and start-ups, by providing them community driven battle tested tools.
-2. Developers will have a chance to contribute and test their skills, those who will contribute will have their part of budget share, collected through donations and crowd-funding, (amount will base on a certain criteria).
+2. Developers will have a chance to contribute and test their skills, those who will contribute will have their part of budget share, collected through donations and crowd-funding, (amount will base on a criteria).
 
 ## Art style & Concept art 
 1. The game will have realistic art style in terms of terrain, vegetation, characters and other assets, the best example for this game's *__art style, lightning, mood and atmosphere is Remedy Entertainment's Alan wake.__*
@@ -54,10 +54,10 @@ Although this game is medieval themed and open world opposed to Alan wake howeve
 <img src="Resources/Landscape/01.jpg" width="300" height="300"/> <img src="Resources/Landscape/02.jpg" width="300" height="300"/> <img src="Resources/Landscape/03.jpg" width="300" height="300"/> <img src="Resources/Landscape/04.jpg" width="300" height="300"/> <img src="Resources/Landscape/05.jpg" width="300" height="300"/> <img src="Resources/Landscape/06.jpg" width="300" height="300"/>
   
 ## Gameplay and game mechanics overview
-1. The game is an open world RPG(Role playing game) played from third person point of view.
-2. The main focus of the game world will not necessary be combat instead it will be story telling, immersion in the game world,
+The game is an open world RPG(Role playing game) played from third person point of view.
+The main focus of the game world will not necessary be combat instead it will be story telling, immersion in the game world,
 beautiful level designs and vistas however combat will still be an essential part of this game.
-3. Game will feature limited but well crafted game play mechanics such as.
+Apart from a immersive world there would be polished and well crafted mechanics such as.
 
 - *inventory*
 - *crafting*
@@ -67,7 +67,7 @@ beautiful level designs and vistas however combat will still be an essential par
 - *intelligent NPCs*
 - *exploration*
 - *points of intrests*
-- *lot of interactions in game world*
+- *and much more*
 
 ## Technical details overview
 ## World
