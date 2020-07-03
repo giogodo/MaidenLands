@@ -15,17 +15,13 @@ Maiden Lands has rich background, history of its civilizations, culture, histori
 Apart from main story line, tools will be developed free as well as exclusive to allow users to create content; from stories, quests and characters to locations and blacksmith and inventory items, the user created content can be sold to in game merchants and markets to other
 users.
 
-<img src="Resources/Maps/GRANADO_ESPADA_Sword_New_World.jpg" width="800" height="600"/>
+<img src="Resources/Maps/GRANADO_ESPADA_Sword_New_World.jpg" width="1000" height="600"/>
 
 *__Please note that this is the first iteration of this document, mistakes or incomplete details are expected__*.
 *__Give your feedback at ObaidurRehman164@gmail.com or like the facebook page https://www.facebook.com/MiadenLands-107453851032220.*
 
 ## Background and Story
-The game will be set in far away "Maiden Land", with Nordic villages and towns to the north of it and Eastern caucasian ethnic populations in the middle lands.
-The world will draw inspirations in terms costumes/clothing and life style/living from late medieval european civilizations.
-"Maiden Land" is medieval fantasy, apart from humans it has creatures and beasts living in it's vast wilderness, some live in communities and other independently.
-These creatures and beasts are powerful and dangerous beyond the strength of any human, so humans to counter these have evolved ranged weapon technologies including bows, 
-Cross bows and gun powder.
+
 
 ## Goals
 The goal of this project is to create an immersive medieval fantasy world with a rich story, background, history and amazing art work, landscapes and vistas 
