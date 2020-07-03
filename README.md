@@ -43,7 +43,7 @@ Although this game is medieval themed and open world opposed to Alan wake howeve
 <img src="Resources/Art direction/01.jpg" width="300" height="300"/> <img src="Resources/Art direction/02.png" width="300" height="300"/> <img src="Resources/Art direction/03.jpg" width="300" height="300"/> <img src="Resources/Art direction/04.jpg" width="300" height="300"/> <img src="Resources/Art direction/05.jpg" width="300" height="300"/> <img src="Resources/Art direction/06.jpg" width="300" height="300"/> <img src="Resources/Art direction/07.jpg" width="300" height="300"/> <img src="Resources/Art direction/08.jpg" width="300" height="300"/> <img src="Resources/Art direction/09.jpg" width="300" height="300"/>
 
 2. Initial vegetation assets, terrain/landscapes will be created by development team.
-3. Officially art assets such as 3d models for villages, towns, castles, props, animations will be purchased from unity asset store publisher DEXSOFT-Games https://assetstore.unity.com/publishers/15, asset packs such as.
+3. Officially art assets such as 3d models for villages, towns, castles, props, animations will be purchased from unity asset store, asset such as.
 
  - https://assetstore.unity.com/packages/3d/environments/historic/medieval-castle-model-7601.
  - https://assetstore.unity.com/packages/3d/environments/fantasy/viking-village-13921.
@@ -55,8 +55,10 @@ Although this game is medieval themed and open world opposed to Alan wake howeve
   
 ## Gameplay and game mechanics overview
 The game is an open world RPG(Role playing game) played from third person point of view.
+
 The main focus of the game world will not necessary be combat instead it will be story telling, immersion in the game world,
 beautiful level designs and vistas however combat will still be an essential part of this game.
+
 Apart from a immersive world there would be polished and well crafted mechanics such as.
 
 - *inventory*
