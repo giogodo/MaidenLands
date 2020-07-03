@@ -24,8 +24,11 @@ users.
 Maiden Lands is filled with magic and monsters, both as humans and beasts.
 
 The year is 1106, one after the other, Saxon kingdoms have fallen to Nordic invasions.
-Saxon cities have been ravaged and plundered by pagans, populations killed and enslaved. Those who have taken refuge in deep forests have found themselves and their
-families amongst monsters and magic.
+Saxon cities have been ravaged and plundered by pagans, populations killed and enslaved. Those who took refuge in deep forests have found themselves and their
+families amongst monsters, magic and outlaws, with no food and security. A 
+
+However a becon of hope remians, a coastal city to the very end of MaidenLands, she is injured but sill resists to both the pagans and monsters. 
+It serves as a symbol of hope and light to all the resistance movements spread across MaidenLands 
 
 ## Goals
 The goal of this project is to create an immersive medieval fantasy world with a rich story, background, history and amazing art work, landscapes and vistas 
