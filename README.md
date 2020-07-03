@@ -221,8 +221,8 @@ First short term amount, upfront amount of **5000$ US Dollars**, for various pur
 Donations can be made using direct bank deposit or by becoming a patreon, both will earn rewards, benefits of contributions will be,
 
 1. Access to Proprietary tools ( AI, Story editor and Quest editor ).
-2. On demand tools.
-3. On demand game mechanics.
+2. Free artwork.
+3. Early access.
 
 **using western union**
 1. National ID card number: 32203-0191179-8.
