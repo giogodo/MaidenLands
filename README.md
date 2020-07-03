@@ -21,7 +21,11 @@ users.
 *__Give your feedback at ObaidurRehman164@gmail.com or like the facebook page https://www.facebook.com/MiadenLands-107453851032220.*
 
 ## Background and Story
+Maiden Lands is filled with magic and monsters, both as humans and beasts.
 
+The year is 1106, one after the other, Saxon kingdoms have fallen to Nordic invasions.
+Saxon cities have been ravaged and plundered by pagans, populations killed and enslaved. Those who have taken refuge in deep forests have found themselves and their
+families amongst monsters and magic.
 
 ## Goals
 The goal of this project is to create an immersive medieval fantasy world with a rich story, background, history and amazing art work, landscapes and vistas 
