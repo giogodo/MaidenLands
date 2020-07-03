@@ -25,13 +25,12 @@ Maiden Lands is filled with magic and monsters, both as humans and beasts.
 
 In the year 1106, one after the other, Saxon kingdoms fell to Nordic invasions.
 Saxon cities ravaged and plundered by pagans, populations killed and enslaved. Those who took refuge in deep forests found themselves and their families amongst
-monsters, magic and outlaws, with no food and security. A few young men and women took up arms and guard the holy relaics which their ansestors took before fleeing the cities.
+monsters, magic and outlaws, with no food and armies to defend themselves, thousands wew killed. Those who survived the forests and massacare took up arms and organised resistance movements through the MaidenLand.
 
-However a becon of hope still remians, "Alia" a coastal city to the very end of MaidenLands, she is injured but sill resists to both the pagans and monsters. 
-It is a symbol of hope and light to all the resistance movements spread across MaidenLands.
+Defenders of "A'Lia", a coastal city to the very end of MaidenLands, fought off the pagan invasion of 1106, the city resists the occupation forces even to this day.
+The city has since become a symbol of hope and light to all the resistance movements spread across MaidenLands.
 
-Alia also serves as the last political and mililtry hub for all Saxons, and organizes all resistance movements to hold on the remaining trade routes, settlements and
-natural resources.
+"A'Lia" also serves as the last political and mililtry hub for all Saxons, and organizes all resistance and mililtary movements to hold on to the remaining trade routes, settlements and natural resources across MaidenLand.
 
 ## Goals
 The goal of this project is to create an immersive medieval fantasy world with a rich story, background, history and amazing art work, landscapes and vistas 
