@@ -1,14 +1,14 @@
 # MaidenLands
-# Open world, open source, medieval fantasy Role Playing Game
+# Open world, open source, medieval fantasy RPG
 
 ## About
-This is the primary repository for an "open world, open source" role playing game.
+This is the primary repository for an open world, open source RPG **"MaidenLands"**.
 
 **Welcome to Maiden Lands.**
 
 Maiden Lands will be a community driven open world role playing game, where users can create their own stories, quests, characters and art and much more in a medieval fantasy world with a strong background story, theme, history, culture and lore.
 
-The world of Maiden Lands will be filled with lots of interesting characters, towns, cities and stories, inspired by medieval Scandinavia, the world of "Maiden Lands" is divided into two lands masses with "Tribal Nordic civilizations" to the north and "Saxons" in the middle lands.
+The world of Maiden Lands will be filled with lots of interesting characters, towns, cities and stories, inspired by medieval Scandinavia, the world of "Maiden Lands" is divided into two lands masses with "Tribal Nord civilizations" to the north and "Saxons" in the "MaidenLands".
 
 Maiden Lands has rich background, history of its civilizations, culture, historical events, architecture and a main story line as well as a  well defined protagonist and story characters.
 
@@ -23,12 +23,17 @@ users.
 ## Background and Story
 Maiden Lands is filled with magic and monsters, both as humans and beasts.
 
-The year is 1106, one after the other, Saxon kingdoms have fallen to Nordic invasions.
-Saxon cities have been ravaged and plundered by pagans, populations killed and enslaved. Those who took refuge in deep forests have found themselves and their
-families amongst monsters, magic and outlaws, with no food and security. A 
+In the year 1106, one after the other, Saxon kingdoms fell to Nordic invasions.
+Saxon cities ravaged and plundered by pagans, populations killed and enslaved. Those who took refuge in deep forests found themselves and their families amongst
+monsters, magic and outlaws, with no food and security.
 
-However a becon of hope remians, a coastal city to the very end of MaidenLands, she is injured but sill resists to both the pagans and monsters. 
-It serves as a symbol of hope and light to all the resistance movements spread across MaidenLands 
+A few young men and women took up arms and guard the holy relaics which their ansestors took before fleeing the cities.
+
+However a becon of hope still remians, "Alia" a coastal city to the very end of MaidenLands, she is injured but sill resists to both the pagans and monsters. 
+It is a symbol of hope and light to all the resistance movements spread across MaidenLands.
+
+Alia also serves as the last political and mililtry hub for all Saxons, and organizes all resistance movements to hold on the remaining trade routes, settlements and
+natural resources.
 
 ## Goals
 The goal of this project is to create an immersive medieval fantasy world with a rich story, background, history and amazing art work, landscapes and vistas 
