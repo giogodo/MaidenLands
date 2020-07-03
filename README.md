@@ -25,7 +25,7 @@ Maiden Lands is filled with magic and monsters, both as humans and beasts.
 
 In the year 1106, one after the other, Saxon kingdoms fell to Nordic invasions.
 Saxon cities ravaged and plundered by pagans, populations killed and enslaved. Those who took refuge in deep forests found themselves and their families amongst
-monsters, magic and outlaws, with no food and armies to defend themselves, thousands wew killed. Those who survived the forests and massacare took up arms and organised resistance movements through the MaidenLand.
+monsters, magic and outlaws, with no food and armies to defend themselves, thousands werw killed. Those who survived the forests and massacare took up arms and organised resistance movements throughout the occupied territories.
 
 Defenders of "A'Lia", a coastal city to the very end of MaidenLands, fought off the pagan invasion of 1106, the city resists the occupation forces even to this day.
 The city has since become a symbol of hope and light to all the resistance movements spread across MaidenLands.
@@ -224,25 +224,23 @@ Donations can be made using direct bank deposit or by becoming a patreon, both w
 2. On demand tools.
 3. On demand game mechanics.
 
-**--> using western union**
+**using western union**
 1. National ID card number: 32203-0191179-8.
 2. Mobile/Cell phone number: +923430285008.
 
-**--> donations can be made by direct bank deposists**.
+**donations can be made by direct bank deposists**.
 1. Account number: PK69BKIP0303400180820001.
 2. Swift code: BKIPPKKA.
 
-**--> or by becoming a patreon**.
+**or by becoming a patreon**.
 - https://www.patreon.com/MaidenLands.
 
-**--> a kick starter campaign (comming in second week of July)**.
+**a kick starter campaign (comming in second week of July)**.
 
-**--> official twitter account (coming soon)**.
+**official twitter account (coming soon)**.
 
 
 *For further queries / questions contact me directly*.
-Contacts.
-
 1. ObaidurRehman164@gmail.com.
 2. https://www.facebook.com/obaid.rehman.1044/.
 3. whatsapp +923430285008 
