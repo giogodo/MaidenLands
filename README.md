@@ -119,25 +119,15 @@ https://www.amazon.com/Programming-Example-Wordware-Developers-Library/dp/155622
 2. Unity builtin "NavMesh" will be used for NPC navigation.
 3. AI agents/NPCs behavious will be divided into two categories.
   - Low level behaviours such as seek, flee, chase, hide, chat, gather, dialogue etc.
-  - Low level behaviours are then grouped/arranged or executed in sequence to create more complex behaviours such as **go to forest and 
-  **gather wood**, is a sequential execution of seek and gather wood, however more complex behaviours are also possible.
+  - Low level behaviours are then grouped as "action group" and arranged in GOAP planning algorithm, each group has an associated desiribility curve, at each frame groups are evaluated, thr group with highest desiribility gets evaluated and acts on the NPC.
 4. For AI/NPC sensory system(senses) a robust open source sensory system "UnitySensorySystem" will be used, however in order to 
 integerate the "sensory system" into this project, the "sensory system" will require some minor modifications. The link to 
-mentioned "sensory system"
+mentioned "sensory system".
 https://github.com/ntk4/UnitySensorySystem.
-5. Apart from above mentioned AI systems, custom systems are also created, info I have already created one, I have 
-named it **_Location tool_**. The **_Location tool_** apart from other uses which I will mention it their respective categories, allows
-creation of areas or location in a game world. With the help of this tool any location can be marked/converted to a location, the newly
-created location is then be decorated with different useful properties such as the location's
-- name
-- location in game world
-- important destionations in that location etc etc.
-In the context of AI this information provided by **_Location tool_** is very important for example
-- AI agents can be made aware of their current location in the game world e.g near **_old bear's inn_** or inside **_castle black_**.
-- AI agents can poll locations during decision making phase, this is very important since more complex behaviours can be created
-such as **_go to castle black_** or **_go to blacksmith and forge a sword_**.
-This was just an overview of **_Location tool_**, however this tool is quite complex and it is not limited just to AI, more about this 
-tool will be mentioned it their respective categories.
+5. Apart from above mentioned AI systems, custom tools will also be developed. One such tool, "Unity Location System" has already been developed.
+The Location system allows creation of locations in the game world, with defined boundaries, important destinations in a location can also be marked.
+A new location can be created anywhere in the game world or any existing gameobject can be converted to a location.
+
 
 ## Other
 1. A graph system implementation will be used for a branching dilalogue, story as well as for quest editor, the implementation of graphs and other graphs related search algorithms will be based upon graphs implementation mentioned in this book
