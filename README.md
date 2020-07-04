@@ -16,8 +16,12 @@ Apart from main story line, tools will be developed free as well as exclusive, t
 
 <img src="Resources/Maps/GRANADO_ESPADA_Sword_New_World.jpg" width="1000" height="600"/>
 
+
+
 *__Please note that this is the first iteration of this document, mistakes or incomplete details are expected__*.
 *__Give your feedback at ObaidurRehman164@gmail.com or like the facebook page https://www.facebook.com/MiadenLands-107453851032220.*
+
+
 
 ## Background and Story
 MaidenLand is filled with magic and monsters, both as humans and beasts.
