@@ -194,20 +194,24 @@ including writing all the manuals and making video tutorials.
   - optional enhancements
   
 ## Development teams
-Broadly Development teams would be categorized into to
+Broadly development teams would be divided as
 
-0. Story, theme and quest writers.
-1. Concept artists.
-2. Programming and Engineering team.
-3. Environment art designers.
-4. Character Artists.
-5. Location teams and Level designers.
-6. Quest designers and Story team.
-7. Sound Designers.
-8. Beta testing team.
+1. Project lead and Public relations team.
+2. Story, theme and quest writers.
+3. Concept artists and art direction team.
+4. Programming and Engineering team.
+5. Environment art designers.
+6. Character Artists.
+7. Location teams and Level designers.
+8. Quest designers and Story team.
+9. Sound Designers.
+10. Beta testing team.
+
+Each team would have a single responsibility, teams would work remotely, "Project lead team" would be responsible for managing various affairs such as legal, licensing
+
 
 ## Donations / Crowd funding
-I have spend past 7 to 8 months working full time on this ambitious project of mine, I worked on every single core aspect mostly technicals such as developing and making ready
+I have spend past 7 to 8 months working full time on this ambitious project I worked on every single core aspect mostly technicals such as developing
 the tool sets and framework to be used by other developers, however I have to pay for other aspects which are out of my domain such as concept art and art direction.
 This project will also cost some part time developers as well, 
 
