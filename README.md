@@ -34,8 +34,9 @@ The city has since become a symbol of hope and light to all the resistance movem
 11 years after the Nord invasion, the last Saxon city of "A'Lia" still resists, it has fortified its defences and coordinates the resistance movements.
 The Nords have gone weaker by years of infighting, struggle for power and constant raids by Saxon resistance forces.
 
-The city of "" is an important mililtary and logistic hub, due to it's strong fortifications and fertile land surrounding it, it serves as mililtary base, whoever controls 
-"", 
+The city of "" is an important mililtary and logistic hub, due to it's strong fortifications and fertile land surrounding it, it is quite further away from nearest Nord settlement, and has grown weaker by constant Saxon gorilla attack.
+
+The Saxons now plans to take over "" and marches an army towards it, to increase their influence across MaidenLand and secure imortant trade routes and fertile lands.
 
 ## Goals
 The goal of this project is to create an immersive medieval fantasy world with a rich story, background, history and amazing art work, landscapes and vistas 
