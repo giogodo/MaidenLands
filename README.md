@@ -6,7 +6,7 @@ This is the primary repository for an open world, open source RPG **"MaidenLand"
 
 **Welcome to Maiden Lands.**
 
-Maiden Land will be a community driven open world role playing game, where users can create their own stories, quests, characters and art and much more in a medieval fantasy world with a strong background story, theme, history, culture and lore.
+MaidenLand will be a community driven open world role playing game, where users can create their own stories, quests, characters and art and much more in a medieval fantasy world with a strong background story, theme, history, culture and lore.
 
 The world of Maiden Land will be filled with lots of interesting characters, towns, cities and stories, inspired by medieval Scandinavia, the world of "Maiden Land" is divided into two lands masses with "Tribal Nord civilizations" to the north and "Saxons" in the "MaidenLand".
 
