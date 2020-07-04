@@ -1,16 +1,16 @@
-# MaidenLands
+# MaidenLand
 # Open world, open source, medieval fantasy RPG
 
 ## About
-This is the primary repository for an open world, open source RPG **"MaidenLands"**.
+This is the primary repository for an open world, open source RPG **"MaidenLand"**.
 
 **Welcome to Maiden Lands.**
 
-Maiden Lands will be a community driven open world role playing game, where users can create their own stories, quests, characters and art and much more in a medieval fantasy world with a strong background story, theme, history, culture and lore.
+Maiden Land will be a community driven open world role playing game, where users can create their own stories, quests, characters and art and much more in a medieval fantasy world with a strong background story, theme, history, culture and lore.
 
-The world of Maiden Lands will be filled with lots of interesting characters, towns, cities and stories, inspired by medieval Scandinavia, the world of "Maiden Lands" is divided into two lands masses with "Tribal Nord civilizations" to the north and "Saxons" in the "MaidenLands".
+The world of Maiden Land will be filled with lots of interesting characters, towns, cities and stories, inspired by medieval Scandinavia, the world of "Maiden Land" is divided into two lands masses with "Tribal Nord civilizations" to the north and "Saxons" in the "MaidenLand".
 
-Maiden Lands has rich background, history of its civilizations, culture, historical events, architecture and a main story line as well as a  well defined protagonist and story characters.
+Maiden Land has rich background, history of its civilizations, culture, historical events, architecture and a main story line as well as a  well defined protagonist and story characters.
 
 Apart from main story line, tools will be developed free as well as exclusive, to allow users to create content; ranging from stories, quests, characters and locations to blacksmith and inventory items, the user created content can be sold using in game merchants and markets to other users.
 
@@ -20,13 +20,13 @@ Apart from main story line, tools will be developed free as well as exclusive, t
 *__Give your feedback at ObaidurRehman164@gmail.com or like the facebook page https://www.facebook.com/MiadenLands-107453851032220.*
 
 ## Background and Story
-Maiden Lands is filled with magic and monsters, both as humans and beasts.
+MaidenLand is filled with magic and monsters, both as humans and beasts.
 
 In the year 1106, one after the other, Saxon kingdoms fell to Nordic invasions.
 Saxon cities ravaged and plundered by pagans, populations killed and enslaved. Those who took refuge in deep forests found themselves and their families amongst
 monsters, magic and outlaws, with no food and armies to defend themselves, thousands werw killed. Those who survived the forests and massacare took up arms and organised resistance movements throughout the occupied territories.
 
-Defenders of "A'Lia", a coastal city to the very end of MaidenLands, fought off the pagan invasion of 1106, the city resists the occupation forces even to this day.
+Defenders of "A'Lia", a coastal city to the very end of MaidenLand, fought off the pagan invasion of 1106, the city resists the occupation forces even to this day.
 The city has since become a symbol of hope and light to all the resistance movements spread across MaidenLands.
 
 "A'Lia" also serves as the last political and mililtry hub for all Saxons, and organizes all resistance and mililtary movements to hold on to the remaining trade routes, settlements and natural resources across MaidenLand.
@@ -34,7 +34,7 @@ The city has since become a symbol of hope and light to all the resistance movem
 ## Goals
 The goal of this project is to create an immersive medieval fantasy world with a rich story, background, history and amazing art work, landscapes and vistas 
 where users can create their own content as well; content such as quests, stories, locations and much more.
-User created content can be sold and purchased to other users through markets and merchants in the "Maiden Lands".
+User created content can be sold and purchased to other users through markets and merchants in the "MaidenLand".
 
 ## Will it help in some other way as well ?
 1. Apart from a complete game, the goal of this project will be to develop an ***open source, plug and play, robust and complete game development framework for unity*** which will benefit anyone looking to develop their own game using unity as well as freelancers, small independent studios and start-ups, by providing them community driven battle tested tools.
