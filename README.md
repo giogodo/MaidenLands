@@ -76,8 +76,11 @@ Apart from a immersive world there would be polished and well crafted mechanics 
 - *and much more*
 
 ## Technical details overview
+
+A complete blog is maintained, that will keep 
+
 ## World
-1. The world us 32 square km, and divided into two landmasses, with various terrain / landscape features such as mountains, rivers, grass lands and forests.
+1. The world is 32 square km, and divided into two landmasses, with various terrain / landscape features such as mountains, rivers, grass lands and forests.
 2. Dynamic day time and weather system.
 3. Default unity's terrain system will be used.
 4. Custom vegetation shading system will be developed.
