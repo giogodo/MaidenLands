@@ -151,15 +151,7 @@ We have big expectations in terms of "quests" for "Maiden Lands".
 "__The quests will be 100% non-linear and can be completed in any more then one way__", quests will drive the story forward.
 (More info comming soon).
 
-## Timeline
-Plan to finish off complete coding part of the game and world building is about 6 months, starting from **6/1/2020**, provided that the desired funding for the project is recieved. It will include 
-1. Tools a fully detailed 32 square landscape with varing landscape features and vegetation will be available to general community.
-2. Complete tools for gamers, level designers and artists to start populating the world, create stories, quests, towns, villages etc.
-3. Game play mechanics.
-4. Player mechanics.
-5. World dynamics.
-
-## MileStones and initial world building
+## Timeline and MileStones
 
 - **Month 1-2 (vegetation and foilage system)**
 
@@ -241,13 +233,9 @@ Donations can be made using direct bank deposit or by becoming a patreon, both w
 
 https://www.patreon.com/MaidenLands.
 
-**a kick starter campaign (comming in second week of July)**.
-
-**official twitter account (coming soon)**.
 
 
-
-*For further queries / questions contact me directly*.
+For further queries / questions contact me directly.
 1. ObaidurRehman164@gmail.com.
 2. https://www.facebook.com/obaid.rehman.1044/.
 3. whatsapp +923430285008 
