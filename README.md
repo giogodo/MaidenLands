@@ -114,7 +114,7 @@ as for fences etc, will also be developed for production to make level design an
  3. https://www.youtube.com/watch?v=TtYiDVQB7jc.
  
 ## AI
-1. GOAP or "goal oriented action planning" algorithm will be used for Non player characters(NPCs), decision making, the actual implementation of algorithm will be based on GOAP algorithm mentioned in this book
+1. GOAP or "goal oriented action planning" algorithm will be used for Non player characters's (NPCs) decision making, the actual implementation of algorithm will be based on GOAP algorithm as implemented in this book.
 https://www.amazon.com/Programming-Example-Wordware-Developers-Library/dp/1556220782.
 2. Unity builtin "NavMesh" will be used for NPC navigation.
 3. AI agents/NPCs behavious will be divided into two categories.
