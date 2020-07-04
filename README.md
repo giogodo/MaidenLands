@@ -201,12 +201,15 @@ including writing all the manuals and making video tutorials.
   - testing.
   - optional enhancements
   
+## Development teams
+
+  
 ## Donations / Crowd funding
 I have spend past 7 to 8 months working full time on this ambitious project of mine, I worked on every single core aspect mostly technicals such as developing and making ready
 the tool sets and framework to be used by other developers, however I have to pay for other aspects which are out of my domain such as concept art and art direction.
 This project will also cost some part time developers as well, 
 
-Initially I would require an immediate upfront amount of **500 US Dollars**, for 
+Initially I would require an immediate upfront amount of **500$ US Dollars**, for 
 
 1. Promotional and advertising art work and video for MaidenLands.
 
@@ -217,13 +220,15 @@ First short term amount, upfront amount of **5000$ US Dollars**, for various pur
 3. paying part time developers.
 4. for utility bills, etc.
 
+Monthly charges duing the develpment would be around **1000$ US Dollars**, to keep the production at a steady rate and to pay for development teams.
+
 Donations can be made using direct bank deposit or by becoming a patreon, both will earn rewards, benefits of contributions will be,
 
 1. Access to Proprietary tools ( AI, Story editor and Quest editor ).
 2. Free artwork.
 3. Early access.
 
-**using western union**
+**using western union**.
 1. National ID card number: 32203-0191179-8.
 2. Mobile/Cell phone number: +923430285008.
 
@@ -231,12 +236,15 @@ Donations can be made using direct bank deposit or by becoming a patreon, both w
 1. Account number: PK69BKIP0303400180820001.
 2. Swift code: BKIPPKKA.
 
-**or by becoming a patreon**.
-- https://www.patreon.com/MaidenLands.
+**or by becoming a patreon**. 
+
+
+https://www.patreon.com/MaidenLands.
 
 **a kick starter campaign (comming in second week of July)**.
 
 **official twitter account (coming soon)**.
+
 
 
 *For further queries / questions contact me directly*.
