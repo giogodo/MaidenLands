@@ -77,7 +77,11 @@ Apart from a immersive world there would be polished and well crafted mechanics 
 
 ## Technical details overview
 
-A complete blog is maintained, that will keep 
+A complete blog is maintained, regarding tools that are being developed for MaidenLands.
+
+Some of these tools are free and available open source for community.
+
+The link to the blog is https://maiden-land-devlog.blogspot.com
 
 ## World
 1. The world is 32 square km, and divided into two landmasses, with various terrain / landscape features such as mountains, rivers, grass lands and forests.
