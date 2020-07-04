@@ -25,7 +25,7 @@ Apart from main story line, tools will be developed free as well as exclusive, t
 
 ## Background and Story
 MaidenLand is filled with magic and monsters, both as humans and beasts.
-# History
+## History
 In the year 1106, one after the other, Saxon kingdoms fell to Nordic invasions.
 Saxon cities ravaged and plundered by pagans, populations killed and enslaved. Those who took refuge in deep forests found themselves and their families amongst
 monsters, magic and outlaws, with no food and armies to defend themselves, thousands werw killed. Those who survived the forests and massacare took up arms and organised resistance movements throughout the occupied territories.
@@ -34,7 +34,7 @@ Defenders of "A'Lia", a coastal city to the very end of MaidenLand, fought off t
 The city has since become a symbol of hope and light to all the resistance movements spread across MaidenLands.
 
 "A'Lia" also serves as the last political and mililtry hub for all Saxons, and organizes all resistance and mililtary movements to hold on to the remaining trade routes, settlements and natural resources across MaidenLand.
-# Present day
+### Present day
 11 years after the Nord invasion, the last Saxon city of "A'Lia" still resists, it has fortified its defences and coordinates the resistance movements.
 The Nords have gone weaker by years of infighting, struggle for power and constant raids by Saxon resistance forces.
 
