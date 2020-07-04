@@ -48,8 +48,8 @@ User created content can be sold and purchased to other users through markets an
 2. Developers will have a chance to contribute and test their skills, those who will contribute will have their part of budget share, collected through donations and crowd-funding, (amount will base on a criteria).
 
 ## Art style & Concept art 
-
-5. The world of "Maiden Land" is divided into two continents, and will have diverse landscapes features ranging from vast grass lands to snow covered montains, rivers and dense forests. In order to keep things constant and in harmony in terms of vegetation that grows in this land and physical features, the landscape of Russian is chosen.
+MaidenLand will have a realistic art style.
+The world of "Maiden Land" is divided into two continents, and will have diverse landscapes features ranging from vast grass lands to snow covered montains, rivers and dense forests. In order to keep things constant and in harmony in terms of vegetation that grows in this land and physical features, the landscape of Russian is chosen.
   
 ## Gameplay and game mechanics overview
 The game is an open world RPG(Role playing game) played from third person point of view.
@@ -138,6 +138,9 @@ We have big expectations in terms of "quests" for "Maiden Lands".
 (More info comming soon).
 
 ## Timeline and MileStones
+
+Timeline for entire MaidenLand development will be 1 complete year, since a lot of programming and technical tasks are already in progress.
+Development Milestones are divided 
 
 - **Month 1-2 (vegetation and foilage system)**
 
