@@ -48,7 +48,7 @@ User created content can be sold and purchased to other users through markets an
 2. Developers will have a chance to contribute and test their skills, those who will contribute will have their part of budget share, collected through donations and crowd-funding, (amount will base on a criteria).
 
 ## Art style & Concept art 
-MaidenLand will have a realistic art style.
+MaidenLand will have a realistic art style, similar to bethesda's Skyrim.
 The world of "Maiden Land" is divided into two continents, and will have diverse landscapes features ranging from vast grass lands to snow covered montains, rivers and dense forests. In order to keep things constant and in harmony in terms of vegetation that grows in this land and physical features, the landscape of Russian is chosen.
   
 ## Gameplay and game mechanics overview
@@ -140,45 +140,48 @@ We have big expectations in terms of "quests" for "Maiden Lands".
 ## Timeline and MileStones
 
 Timeline for entire MaidenLand development will be 1 complete year, since a lot of programming and technical tasks are already in progress.
-Development Milestones are divided 
 
-- **Month 1-2 (vegetation and foilage system)**
+Development Milestones will be divided, a separate team will be assigned for each milestone. Work on each milestone will begin instantly after budget allocated for
+its development is reached.
 
-Since the game take place in vast open landscapes, vegetation and foilage system will be the heart of all systems. Most of the basic tools included in vegetation 
-system are almost complete however in order to make the vegetation system performance friendly as well, it will take time, I plan to give it a full complete month,
-including writing all the manuals and making video tutorials. 
+For convience the milestones are divided as such.
 
-- **Month 2-4 (player and game mechanics)** 
+- **vegetation and foliage system**
+  - procedural tool
+  - hand painting foliage tool
+  - specified area foliage tool
+
+- **player and game mechanics** 
   - character controllers
   - inventory system
   - crafting system
   - item loot system
   - dialogue system
   
-- **Month 4-6 (developer tools)**
+- **developer tools**
   - quest editor
   - story editor
   - tools to create and design levels such villages and towns
   - tools to add AI 
   
-- **Month 6-8 (designing the world of Maiden Lands)**
+- **level design and world building**
   - landscapes
   - level design
   - art work
   - lightning
   - creating mood and atmosphere
 
-- **Month 5-6 (further game mechanics)**
+- **further world mechanics**
   - dynamic time of day
   - dynamic weather system
   - other game system
   - etc
   
-- **Month 6-7 (fine tuning, polishing, testing)**
+- **fine tuning, polishing, testing**
   - testing
   - video demostration by developers of various tools and systems
   
-- **Month 7-8 (fine tuning previous steps)**
+- **fine tuning previous steps**
   - testing.
   - optional enhancements
   
@@ -250,7 +253,7 @@ https://www.patreon.com/MaidenLands.
 
 
 
-For further queries / questions contact me directly.
+For further queries / questions contact me directly. Proposals and submissions accepted.
 1. ObaidurRehman164@gmail.com.
 2. https://www.facebook.com/obaid.rehman.1044/.
 3. whatsapp +923430285008 
