@@ -125,8 +125,15 @@ integerate the "sensory system" into this project, the "sensory system" will req
 mentioned "sensory system".
 https://github.com/ntk4/UnitySensorySystem.
 5. Apart from above mentioned AI systems, custom tools will also be developed. One such tool, "Unity Location System" has already been developed.
+
+
 The Location system allows creation of locations in the game world, with defined boundaries, important destinations in a location can also be marked.
+
+
 A new location can be created anywhere in the game world or any existing gameobject can be converted to a location.
+
+
+During the decision making the AI NPC agents can use these locations to get their relative location in game world, for example near "Old Inn", or to use them for navigation.
 
 
 ## Other
