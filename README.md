@@ -98,22 +98,8 @@ You are welcomed to read the reserch paper.
 8. Other useful and world building tools such as road system for rapidly creation road/paths using splines, object placement along a spline such 
 as for fences etc, will also be developed for production to make level design and world building rapid and less time consuming.
 
- ***a glimpse of tools that are being developed are for vegetation and foilage are as follows, they are inspired by cryengine foilage tools, and use clumps or
- patches for grass and ground cover( with proper height and mesh adjustment according to normal of terrain, topology and surface below) including bushes with the exception of trees***.
- ***Some of the tools being developed are***
- 1. *Grass patch system.*
- 2. *Rule based Geo paint tool (allows painting foilage or meshes such as debris on terrain as well as other meshes).*
- 3. *Foilage area Tool, allow defining a fixed boundary area to grow or remove foilage into*
- 4. *Splat map texturing tools for up to 8 textures.*
- 5. *A foilage distribution system for entire terrain, based on paper mentioned above.*
- 
- *although these tools are included in this repository, please keep in mind, that these tools are are not perfect yet, they are young and rough and need further,
- improvements, which is something I am working on*
- 
- <img src="Resources/grassClump.png" width="1366" height="768"/>
- <img src="Resources/foilageArea.png" width="1366" height="768"/>
- <img src="Resources/geoPaint.png" width="1366" height="768"/>
- 
+Visit the blog linked above to learn more about wold editing tools.
+  
  *video demostrations of above mentioned tools*
  
  1. https://www.youtube.com/watch?v=hBmHCbm6R_s.
