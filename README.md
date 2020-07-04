@@ -76,7 +76,10 @@ Apart from a immersive world there would be polished and well crafted mechanics 
 - *dynamic combat*
 - *party members*
 - *markets and merchants*
-- 
+- *sell or purchase property in MadenLand*
+- *custom character*
+- *bring costumes and art work*
+- *create, modify with world tools* 
 - *and much more*
 
 ## Technical details overview
