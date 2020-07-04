@@ -23,11 +23,14 @@ Apart from main story line, tools will be developed free as well as exclusive, t
 
 
 *__Media channels__*.
-https://www.facebook.com/MiadenLands-107453851032220.*
-https://www.youtube.com/channel/UCNk9Uvbcpws-Z8HPDSVVz8Q
-https://www.patreon.com/MaidenLands.
-https://maiden-land-devlog.blogspot.com
 
+https://www.facebook.com/MiadenLands-107453851032220.*
+
+https://www.youtube.com/channel/UCNk9Uvbcpws-Z8HPDSVVz8Q
+
+https://www.patreon.com/MaidenLands.
+
+https://maiden-land-devlog.blogspot.com
 
 
 ## Background and Story
