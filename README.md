@@ -207,7 +207,17 @@ Broadly development teams would be divided as
 9. Sound Designers.
 10. Beta testing team.
 
-Each team would have a single responsibility, teams would work remotely, "Project lead team" would be responsible for managing various affairs such as legal, licensing
+Each team would have a single responsibility, teams would work remotely.
+
+
+"Project lead team" would be responsible for managing various affairs such as legal, licensing issues, collection and distribution of funds, making sure that project 
+keep moving forward at a steady phase, keeping in touch with the audience and manage the "MaidenLand" social media accounts.
+
+
+"Concepts art and Art direction team" will work with "Story, theme and quest writers" to keep consistency in art style, costumes, story and quests.
+
+
+Any team member can be a part of more then one group at the same time.
 
 
 ## Donations / Crowd funding
