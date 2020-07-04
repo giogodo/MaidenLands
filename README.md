@@ -69,10 +69,14 @@ Apart from a immersive world there would be polished and well crafted mechanics 
 - *crafting*
 - *branching dilogue*
 - *branching stories*
-- *dynamic day/night cycle*
+- *dynamic day/night cycle and weather system*
 - *intelligent NPCs*
 - *exploration*
 - *points of intrests*
+- *dynamic combat*
+- *party members*
+- *markets and merchants*
+- 
 - *and much more*
 
 ## Technical details overview
