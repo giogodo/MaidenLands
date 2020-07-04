@@ -218,6 +218,7 @@ keep moving forward at a steady phase, keeping in touch with the audience and ma
 
 
 Any team member can be a part of more then one group at the same time.
+Registrations of teams and team members will begine shortly after collection of inital funds.
 
 
 ## Donations / Crowd funding
