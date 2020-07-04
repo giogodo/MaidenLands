@@ -4,7 +4,7 @@
 ## About
 This is the primary repository for an open world, open source RPG **"MaidenLand"**.
 
-**Welcome to Maiden Lands.**
+**Welcome to MaidenLand.**
 
 MaidenLand will be a community driven open world role playing game, where users can create their own stories, quests, characters and art and much more in a medieval fantasy world with a strong background story, theme, history, culture and lore.
 
