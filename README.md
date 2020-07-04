@@ -87,7 +87,7 @@ The link to the blog is https://maiden-land-devlog.blogspot.com
 1. The world is 32 square km, and divided into two landmasses, with various terrain / landscape features such as mountains, rivers, grass lands and forests.
 2. Dynamic day time and weather system.
 3. Default unity's terrain system will be used.
-4. Custom vegetation shading system will be developed.
+4. Custom foliage tools for foliage distribution, both as procedural as well as by manual hand painting and shaders will be developed.
 5. A terrain system similar to Colormap Ultra Terrain Shader 4.0 will be used for terrain shading available on unity asset store, will be developed
 for terrain shading.
 https://assetstore.unity.com/packages/tools/terrain/colormap-ultra-terrain-shader-4-0-67260#description.
