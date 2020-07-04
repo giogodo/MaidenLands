@@ -19,7 +19,14 @@ Apart from main story line, tools will be developed free as well as exclusive, t
 
 
 *__Please note that this is the first iteration of this document, mistakes or incomplete details are expected__*.
-*__Give your feedback at ObaidurRehman164@gmail.com or like the facebook page https://www.facebook.com/MiadenLands-107453851032220.*
+*__Give your feedback at ObaidurRehman164@gmail.com__*.
+
+
+*__Media channels__*.
+https://www.facebook.com/MiadenLands-107453851032220.*
+https://www.youtube.com/channel/UCNk9Uvbcpws-Z8HPDSVVz8Q
+https://www.patreon.com/MaidenLands.
+https://maiden-land-devlog.blogspot.com
 
 
 
@@ -250,14 +257,8 @@ Donations can be made using direct bank deposit or by becoming a patreon, both w
 1. Account number: PK69BKIP0303400180820001.
 2. Swift code: BKIPPKKA.
 
-**Or by becoming a patreon**. 
 
-
-https://www.patreon.com/MaidenLands.
-
-
-
-For further queries / questions contact me directly. Proposals and submissions accepted.
+Contacts.
 1. ObaidurRehman164@gmail.com.
 2. https://www.facebook.com/obaid.rehman.1044/.
 3. whatsapp +923430285008 
