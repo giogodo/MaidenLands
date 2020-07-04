@@ -48,21 +48,8 @@ User created content can be sold and purchased to other users through markets an
 2. Developers will have a chance to contribute and test their skills, those who will contribute will have their part of budget share, collected through donations and crowd-funding, (amount will base on a criteria).
 
 ## Art style & Concept art 
-1. The game will have realistic art style in terms of terrain, vegetation, characters and other assets, the best example for this game's *__art style, lightning, mood and atmosphere is Remedy Entertainment's Alan wake.__*
-Although this game is medieval themed and open world opposed to Alan wake however we can still use the art style, mood, lightning refrence of Alan wake, *__Alan wake provides a good exagratted day, evening, night time lightning and mood examples.__*
 
-<img src="Resources/Art direction/01.jpg" width="300" height="300"/> <img src="Resources/Art direction/02.png" width="300" height="300"/> <img src="Resources/Art direction/03.jpg" width="300" height="300"/> <img src="Resources/Art direction/04.jpg" width="300" height="300"/> <img src="Resources/Art direction/05.jpg" width="300" height="300"/> <img src="Resources/Art direction/06.jpg" width="300" height="300"/> <img src="Resources/Art direction/07.jpg" width="300" height="300"/> <img src="Resources/Art direction/08.jpg" width="300" height="300"/> <img src="Resources/Art direction/09.jpg" width="300" height="300"/>
-
-2. Initial vegetation assets, terrain/landscapes will be created by development team.
-3. Officially art assets such as 3d models for villages, towns, castles, props, animations will be purchased from unity asset store, asset such as.
-
- - https://assetstore.unity.com/packages/3d/environments/historic/medieval-castle-model-7601.
- - https://assetstore.unity.com/packages/3d/environments/fantasy/viking-village-13921.
-
-4. Programming will be completly done from scratch by the development team.
 5. The world of "Maiden Land" is divided into two continents, and will have diverse landscapes features ranging from vast grass lands to snow covered montains, rivers and dense forests. In order to keep things constant and in harmony in terms of vegetation that grows in this land and physical features, the landscape of Russian is chosen.
-
-<img src="Resources/Landscape/01.jpg" width="300" height="300"/> <img src="Resources/Landscape/02.jpg" width="300" height="300"/> <img src="Resources/Landscape/03.jpg" width="300" height="300"/> <img src="Resources/Landscape/04.jpg" width="300" height="300"/> <img src="Resources/Landscape/05.jpg" width="300" height="300"/> <img src="Resources/Landscape/06.jpg" width="300" height="300"/>
   
 ## Gameplay and game mechanics overview
 The game is an open world RPG(Role playing game) played from third person point of view.
@@ -111,15 +98,13 @@ https://www.researchgate.net/publication/303973921_Procedural_Generation_of_Medi
 You are welcomed to read the reserch paper.
 8. Other useful and world building tools such as road system for rapidly creation road/paths using splines, object placement along a spline such 
 as for fences etc, will also be developed for production to make level design and world building rapid and less time consuming.
+9. Officially art assets such as 3d models for villages, towns, castles, props, animations will be purchased from unity asset store, asset such as.
+ - https://assetstore.unity.com/packages/3d/environments/historic/medieval-castle-model-7601.
+ - https://assetstore.unity.com/packages/3d/environments/fantasy/viking-village-13921.
+11. Programming will be completly done from scratch by the development team.
 
 Visit the blog linked above to learn more about wold editing tools.
-  
- *video demostrations of above mentioned tools*
- 
- 1. https://www.youtube.com/watch?v=hBmHCbm6R_s.
- 2. https://www.youtube.com/watch?v=zgq6685nBd0.
- 3. https://www.youtube.com/watch?v=TtYiDVQB7jc.
- 
+   
 ## AI
 1. GOAP or "goal oriented action planning" algorithm will be used for Non player characters's (NPCs) decision making, the actual implementation of algorithm will be based on GOAP algorithm as implemented in this book.
 https://www.amazon.com/Programming-Example-Wordware-Developers-Library/dp/1556220782.
