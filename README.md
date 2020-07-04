@@ -194,8 +194,18 @@ including writing all the manuals and making video tutorials.
   - optional enhancements
   
 ## Development teams
+Broadly Development teams would be categorized into to
 
-  
+0. Story, theme and quest writers.
+1. Concept artists.
+2. Programming and Engineering team.
+3. Environment art designers.
+4. Character Artists.
+5. Location teams and Level designers.
+6. Quest designers and Story team.
+7. Sound Designers.
+8. Beta testing team.
+
 ## Donations / Crowd funding
 I have spend past 7 to 8 months working full time on this ambitious project of mine, I worked on every single core aspect mostly technicals such as developing and making ready
 the tool sets and framework to be used by other developers, however I have to pay for other aspects which are out of my domain such as concept art and art direction.
@@ -212,7 +222,7 @@ First short term amount, upfront amount of **5000$ US Dollars**, for various pur
 3. paying part time developers.
 4. for utility bills, etc.
 
-Monthly charges duing the develpment would be around **1000$ US Dollars**, to keep the production at a steady rate and to pay for development teams.
+Monthly charges during the develpment would be around **1000$+ US Dollars**, to keep the production at a steady rate and to pay for development teams.
 
 Donations can be made using direct bank deposit or by becoming a patreon, both will earn rewards, benefits of contributions will be,
 
@@ -221,15 +231,15 @@ Donations can be made using direct bank deposit or by becoming a patreon, both w
 3. Early access.
 
 
-**using western union**.
+**Using western union**.
 1. National ID card number: 32203-0191179-8.
 2. Mobile/Cell phone number: +923430285008.
 
-**donations can be made by direct bank deposists**.
+**Donations can be made by direct bank deposists**.
 1. Account number: PK69BKIP0303400180820001.
 2. Swift code: BKIPPKKA.
 
-**or by becoming a patreon**. 
+**Or by becoming a patreon**. 
 
 
 https://www.patreon.com/MaidenLands.
