@@ -77,22 +77,19 @@ Apart from a immersive world there would be polished and well crafted mechanics 
 
 ## Technical details overview
 ## World
-1. The game will have a 32 square km world with various terrain/landscape features such as mountains, rivers, grass lands.
+1. The world us 32 square km, and divided into two landmasses, with various terrain / landscape features such as mountains, rivers, grass lands and forests.
 2. Dynamic day time and weather system.
-3. Speed tree shaders provided by default by unity will be used for vegetation shaders.
-4. Landscape will be procedurally generated using "World machine" and later fine detailed using unity's new terrain tools 
-and terrain brushes.
+3. Default unity's terrain system will be used.
+4. Custom vegetation shading system will be developed.
 5. A terrain system similar to Colormap Ultra Terrain Shader 4.0 will be used for terrain shading available on unity asset store, will be developed
 for terrain shading.
 https://assetstore.unity.com/packages/tools/terrain/colormap-ultra-terrain-shader-4-0-67260#description.
-6. A procedural foilage distribution system will be developed for procedural vegetation scattering based on the following paper.
+6. Landscape will be generated both procedurally using "World machine", as well as by hand painting individual areas for finer details.
+7. A procedural foilage distribution system will be developed for procedural vegetation scattering based on the following paper.
 https://www.researchgate.net/publication/303973921_Procedural_Generation_of_Mediterranean_Environments.
 You are welcomed to read the reserch paper.
-7. Apart from procedural distribution of vegetation, custom terrain brushes and tools for foilage paiting on terrain will also be
-developed.
-8. Other useful and important tools such as road system for rapidly creation road/paths using splines,
-object placement along a spline such as  fences will also be developed for production to make level design and world building as fast as
-possible.
+8. Other useful and world building tools such as road system for rapidly creation road/paths using splines, object placement along a spline such 
+as for fences etc, will also be developed for production to make level design and world building rapid and less time consuming.
 
  ***a glimpse of tools that are being developed are for vegetation and foilage are as follows, they are inspired by cryengine foilage tools, and use clumps or
  patches for grass and ground cover( with proper height and mesh adjustment according to normal of terrain, topology and surface below) including bushes with the exception of trees***.
