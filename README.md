@@ -32,6 +32,7 @@ https://www.patreon.com/MaidenLands
 
 https://maiden-land-devlog.blogspot.com
 
+**Discord channed**: MaidenLand#9336
 
 ## Background and Story
 MaidenLand is filled with magic and monsters, both as humans and beasts.
