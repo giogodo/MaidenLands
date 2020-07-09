@@ -236,18 +236,16 @@ I have spend past 7 to 8 months working full time on this ambitious project I wo
 the tool sets and framework to be used by other developers, however I have to pay for other aspects which are out of my domain such as concept art and art direction.
 This project will also cost some part time developers as well, 
 
-Initially I would require an immediate upfront amount of **500$ US Dollars**, for 
-
-1. Promotional and advertising art work and video for MaidenLands.
-
-First short term amount, upfront amount of **5000$ US Dollars**, for various purposes such as 
+First short term amount, upfront budget of **5000$ US Dollars**, for various purposes such as 
 
 1. centralize office.
 2. hiring developers and artists.
 3. paying part time developers.
 4. for utility bills, etc.
+5. concept art and
+6. media promotion
 
-Monthly charges during the develpment would be around **1000$+ US Dollars**, to keep the production at a steady rate and to pay for development teams.
+Monthly budget during the develpment would be around **1000$+ US Dollars**, to keep the production at a steady rate and to pay for development teams.
 
 Donations can be made using direct bank deposit or by becoming a patreon, both will earn rewards, benefits of contributions will be,
 
