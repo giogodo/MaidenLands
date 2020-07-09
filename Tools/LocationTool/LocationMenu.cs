@@ -6,7 +6,7 @@ using UnityEditor;
 
 public class LocationMenu
 {
-    [MenuItem("LocationTool_v1.0/CreateLocation")]
+    [MenuItem("MaidenLand Tools/LocationTool_v1.0/New Location")]
     static void CreateLocation(MenuCommand menuCommand)
     {
         GameObject location = new GameObject("Location");

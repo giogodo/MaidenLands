@@ -49,12 +49,33 @@ public class PointsGenerator : MonoBehaviour
     {
     }
 
-    public void GeneratePoints(Location l = null)
+    public Vector3 region = new Vector3();
+    public void GenerateInCircle(Transform refObject, float radius)
+    {
+        if (refObject == null)
+        { Debug.Log("refObject is null"); return; }
+
+        // region is the min rectungular box that encloses, the bounderies of location.
+        sampler = new PoissonDiscSampler(radius, radius, pointRadius); // the sampler generates the points in 2d.
+
+        points.Clear();
+        foreach (Vector3 point in sampler.Samples())
+        {
+            Vector3 finalPoint = new Vector3(point.x, 0, point.y);
+            finalPoint = refObject.transform.TransformPoint(point);
+            if (Utils.Utils.PointInsideCircle(refObject.position, radius, finalPoint))
+            {
+                points.Add(finalPoint);
+            }
+        }
+        Debug.Log(points.Count);
+    }
+
+    public void GenerateInLocation(Location l = null)
     {
         if (refObj == null) InitRefObj();
 
         location = LocationManager.GetLocation(locationName);
-
         if (l != null) location = l;
 
         if (location == null)
@@ -70,12 +91,10 @@ public class PointsGenerator : MonoBehaviour
         Vector3 region = new Vector3(minPos, 0, maxPos);
 
         centre = location.GetCentre();
-        Debug.Log(centre);
         size = new Vector3(MaxBounds.x - MinBounds.x, 0f, MaxBounds.z - MinBounds.z);
 
         // corner of min rectungular box that encloses, the bounderies of location 
         Vector3 refPos = new Vector3(centre.x - (size.x / 2), 0, centre.z - (size.z / 2));
-
         refObj.transform.position = refPos;
 
         points = new List<Vector3>();
@@ -86,8 +105,8 @@ public class PointsGenerator : MonoBehaviour
         {
             points.Add(new Vector3(item.x, heightestPoint, item.y));
         }
-        List<Vector3> refPoints = new List<Vector3>();
 
+        List<Vector3> pointsInPolygon = new List<Vector3>();
         // a simple test to check if point is inside the bounderies of this location
         foreach (Vector3 point in points)
         {
@@ -97,15 +116,14 @@ public class PointsGenerator : MonoBehaviour
                                                     location.Bounderies2d.Length,
                                                     new Vector2(finalPoint.x, finalPoint.z)))
             {
-                refPoints.Add(finalPoint);
+                pointsInPolygon.Add(finalPoint);
             }
-
         }
 
         // refPoints = TestForRedZone(refPoints);
-        points = refPoints;
+        points = pointsInPolygon;
         DestroyImmediate(refObj);
-        Debug.Log("gen " + (points.Count));
+        Debug.Log("generated " + (points.Count) + " points");
     }
 
     public Vector3 MinBounds { get { return location.GetMinBounds(); } }

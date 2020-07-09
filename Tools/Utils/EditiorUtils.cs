@@ -13,7 +13,7 @@ public static class EditorUtils
         // custom GUI line
         horizontalLine = new GUIStyle();
         horizontalLine.normal.background = EditorGUIUtility.whiteTexture;
-        horizontalLine.margin = new RectOffset(0, 0, 4, 4);
+        horizontalLine.margin = new RectOffset(0, 0, 1, 1);
         horizontalLine.fixedHeight = 2f;
     }
 

@@ -196,6 +196,5 @@ namespace Utils
               && inBetween.z <= end.z && inBetween.z >= start.z
               && Vector3.Cross(end - start, inBetween - start) == Vector3.zero;
         }
-
     }
 }
