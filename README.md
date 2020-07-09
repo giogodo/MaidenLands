@@ -14,7 +14,7 @@ Maiden Land has rich background, history of its civilizations, culture, historic
 
 Apart from main story line, tools will be developed free as well as exclusive, to allow users to create content; ranging from stories, quests, characters and locations to blacksmith and inventory items, the user created content can be sold using in game merchants and markets to other users.
 
-<img src="Resources/Maps/GRANADO_ESPADA_Sword_New_World.jpg" width="1000" height="600"/>
+<img src="Resources/Maps/world map.jpg" width="1000" height="600"/>
 
 
 
