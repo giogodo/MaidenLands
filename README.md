@@ -4,7 +4,7 @@
 ## About
 This is the primary repository for an open world, open source RPG **"MaidenLand"**.
 
-<a href="https://youtu.be/mBwlnd3rXjs" target="_blank"><img src="Resources/maidenLandIcon.png" width="700" height="300.jpg" 
+<a href="https://youtu.be/mBwlnd3rXjs" target="_blank"><img src="Resources/maidenLandIcon.png" width="300" height="300.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 **Welcome to MaidenLand.**
