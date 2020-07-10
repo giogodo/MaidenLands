@@ -31,6 +31,7 @@ Apart from main story line, tools will be developed free as well as exclusive, t
 
 *__Typos, mistakes or incomplete details are expected document,__*.
 *__Give your feedback at ObaidurRehman164@gmail.com__*.
+*__The layout of this document, looks good on computer screen__*.
 
 
 *__Media channels__*.
@@ -134,7 +135,7 @@ as for fences etc, will also be developed for production to make level design an
   - "Foliage simulation tool", simulates foliage on entire terrain.
 
 <img src="Resources/Screenshots/grassTool.png" width="500" height="300"/>  <img src="Resources/Screenshots/areaFoliage.png" width="500" height="300"/>
-<img src="Resources/Screenshots/painter.png" width="500" height="300"/>
+<img src="Resources/Screenshots/painter.png" width="500" height="300"/> <img src="Resources/Screenshots/locationTool.png" width="500" height="300"/>
 
 Visit the blog linked above to learn more about wold editing tools.
 
