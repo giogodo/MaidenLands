@@ -130,9 +130,10 @@ as for fences etc, will also be developed for production to make level design an
  - https://assetstore.unity.com/packages/3d/environments/fantasy/viking-village-13921.
 11. Programming will be completly done from scratch by the development team.
 12. Here are some of the images of vegetation tools in action, each tools has a clean and professional user interface designed to, it includes
+  - "GrassPatch tool", a tool to quickly create a grass patch
   - "GeoPainter", a brush painting tool,
-  - "Area Foliage", scatters foliage in a user defined area,
-  - "Foliage simulation tool", simulates foliage on entire terrain.
+  - "Area Foliage tool", scatters foliage in a user defined area,
+  - "Foliage simulation tool", simulates foliage on entire terrain using techniques as described in above mentioned paper.
 
 <img src="Resources/Screenshots/grassTool.png" width="500" height="300"/>  <img src="Resources/Screenshots/areaFoliage.png" width="500" height="300"/>
 <img src="Resources/Screenshots/painter.png" width="500" height="300"/> <img src="Resources/Screenshots/locationTool.png" width="500" height="300"/>
