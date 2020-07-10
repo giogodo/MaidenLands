@@ -19,7 +19,7 @@ Apart from main story line, tools will be developed free as well as exclusive, t
 
 
 
-<img src="Resources/Maps/world map.jpg" width="1000" height="600"/>  <img src="Resources/Maps/world map.jpg" width="1000" height="600"/>
+<img src="Resources/Maps/world map.jpg" width="1000" height="600"/>
 
 
 
@@ -127,7 +127,8 @@ as for fences etc, will also be developed for production to make level design an
   - "Area Foliage", scatters foliage in a user defined area,
   - "Foliage simulation tool", simulates foliage on entire terrain.
 
-<img src="Resources/old images/01.png" width="500" height="300"/>
+<img src="Resources/old images/01.png" width="500" height="300"/>  <img src="Resources/old images/02.png" width="500" height="300"/>
+<img src="Resources/old images/03.png" width="500" height="300"/>  <img src="Resources/old images/04.png" width="500" height="300"/>
 
 Visit the blog linked above to learn more about wold editing tools.
 
