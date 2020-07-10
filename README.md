@@ -29,7 +29,7 @@ Apart from main story line, tools will be developed free as well as exclusive, t
 
 
 
-*__Typos, mistakes or incomplete details are expected document, __*.
+*__Typos, mistakes or incomplete details are expected document,__*.
 *__Give your feedback at ObaidurRehman164@gmail.com__*.
 
 
