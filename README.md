@@ -17,6 +17,8 @@ Maiden Land has rich background, history of its civilizations, culture, historic
 
 Apart from main story line, tools will be developed free as well as exclusive, to allow users to create content; ranging from stories, quests, characters and locations to blacksmith and inventory items, the user created content can be sold using in game merchants and markets to other users.
 
+
+
 <img src="Resources/Maps/world map.jpg" width="1000" height="600"/>
 
 
@@ -120,8 +122,13 @@ as for fences etc, will also be developed for production to make level design an
  - https://assetstore.unity.com/packages/3d/environments/historic/medieval-castle-model-7601.
  - https://assetstore.unity.com/packages/3d/environments/fantasy/viking-village-13921.
 11. Programming will be completly done from scratch by the development team.
+12. Here are some of the images of vegetation tools in action, each tools has a clean and professional user interface designed to, it includes
+  - "GeoPainter", a brush painting tool,
+  - "Area Foliage", scatters foliage in a user defined area,
+  - "Foliage simulation tool", simulates foliage on entire terrain.
 
 Visit the blog linked above to learn more about wold editing tools.
+
    
 ## AI
 1. GOAP or "goal oriented action planning" algorithm will be used for Non player characters's (NPCs) decision making, the actual implementation of algorithm will be based on GOAP algorithm as implemented in this book.
