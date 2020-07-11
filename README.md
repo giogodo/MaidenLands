@@ -12,7 +12,7 @@ __*I will make your game design and artistic goals inside unity come alive but I
 
 __*Donate to it in both cases and you will get a generous rewards.*__
 
-__*[Donate here](https://www.google.com).*__
+__*[Your generous donations are accepted here, they will buy me a cup of coffee and during long work durations](https://github.com/Obaid-R/MaidenLands/blob/master/README.md#donations--crowd-funding).*__
 
 
 ## About
