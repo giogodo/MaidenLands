@@ -292,7 +292,7 @@ Donations can be made using direct bank deposit or by becoming a patreon, both w
 1. National ID card number: 32203-0191179-8.
 2. Mobile/Cell phone number: +923430285008.
 
-## Donations can be made by direct bank deposists.
+## Direct bank deposists.
 1. Account number: PK69BKIP0303400180820001.
 2. Swift code: BKIPPKKA.
 
