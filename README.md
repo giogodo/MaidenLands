@@ -12,7 +12,7 @@ __*I will make your game design and artistic goals inside unity come alive but I
 
 __*Donate to it in both cases and you will get a generous rewards.*__
 
-__*[I'm an inline-style link with title](https://www.google.com "Google's Homepage").*__
+__*[Donate here](https://www.google.com).*__
 
 
 ## About
