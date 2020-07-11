@@ -4,7 +4,7 @@
 
 __*Hi, I am developing tools for artists, level designers and developers inside of unity game engine.*__
 
-__*The tools are being being professinally designed and will cut short your development time and effort.*__
+__*The tools are being being professinally designed, are free open source and will cut short your development time and effort.*__
 
 __*Moreover I have also decided to convert this to an exciting project as well which you can read here.*__
 
