@@ -1,6 +1,14 @@
 # MaidenLand
 # Open world, open source, medieval fantasy RPG
 
+
+__Hi, I am developing tools for artists, level designers and developers inside of unity game engine__
+__The tools are being being professinally designed and will cut short your development time and effort__
+__Moreover I have also decided to convert this to an exciting project as well which you can read here__
+__I will make your game design and artistic goals inside unity come alive but I cannot do this alone, I would need your generous support__
+__Donate to it in both cases and you will get a generous rewards__
+
+
 ## About
 This is the primary repository for an open world, open source RPG **"MaidenLand"**.
 
