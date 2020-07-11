@@ -12,7 +12,7 @@ __*I will make your game design and artistic goals inside unity come alive but I
 
 __*Donate to it in both cases and you will get a generous rewards.*__
 
-__*[Your generous donations are accepted here, they will buy me a cup of coffee and during long work durations](https://github.com/Obaid-R/MaidenLands/blob/master/README.md#donations--crowd-funding).*__
+__*[Your generous donations are accepted here, they will buy me a cup of coffee during long work durations](https://github.com/Obaid-R/MaidenLands/blob/master/README.md#donations--crowd-funding).*__
 
 
 ## About
@@ -288,7 +288,7 @@ Donations can be made using direct bank deposit or by becoming a patreon, both w
 3. Early access.
 
 
-Alt-# Using western union.
+Alt- ## Using western union.
 1. National ID card number: 32203-0191179-8.
 2. Mobile/Cell phone number: +923430285008.
 
