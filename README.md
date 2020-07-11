@@ -15,7 +15,7 @@ The world of Maiden Land will be filled with lots of interesting characters, tow
 
 Maiden Land has rich background, history of its civilizations, culture, historical events, architecture and a main story line as well as a  well defined protagonist and story characters.
 
-Apart from main story line, tools will be developed free as well as exclusive, to allow users to create content; ranging from stories, quests, characters and locations to blacksmith and inventory items, the user created content can be sold using in game merchants and markets to other users.
+Apart from main story line, users will recieve complete developer kits and tools to create new content; ranging from stories, quests, characters and locations to blacksmith and inventory items, the user created content can be sold using merchants and markets in "MaidenLands" to other users.
 
 
 
