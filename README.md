@@ -288,7 +288,7 @@ Donations can be made using direct bank deposit or by becoming a patreon, both w
 3. Early access.
 
 
-Alt-## Using western union.
+-## Using western union.
 1. National ID card number: 32203-0191179-8.
 2. Mobile/Cell phone number: +923430285008.
 
